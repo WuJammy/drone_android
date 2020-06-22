@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rosjava.android_extras:gingerbread:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/010cef9fcde3517d2d359ae7b748f1d2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/010cef9fcde3517d2d359ae7b748f1d2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

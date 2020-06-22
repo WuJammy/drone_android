@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rosjava.android_remocons:common_tools:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4790bd64e698631aedaae1914cf63e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4790bd64e698631aedaae1914cf63e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4790bd64e698631aedaae1914cf63e/jars/libs/snakeyaml-1.10-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

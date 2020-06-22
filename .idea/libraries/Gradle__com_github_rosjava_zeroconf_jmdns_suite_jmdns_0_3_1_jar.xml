@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rosjava.zeroconf_jmdns_suite:jmdns:0.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rosjava.zeroconf_jmdns_suite/jmdns/0.3.1/bc36f2e5a3e7185b4ea72a3423f5965241c7cd92/jmdns-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rosjava.zeroconf_jmdns_suite/jmdns/0.3.1/71551d2602e2a9264c0d7276ef0f96a307bce67e/jmdns-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d9ca40bd50db3d1540aab91ed8858ad6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\33b10d0453668cca63a0fa499f2c12b3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.rosjava.android_remocons:common_tools:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c4790bd64e698631aedaae1914cf63e\AndroidManifest.xml:2:1-12:12
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\23600c7dd47e369115e9d1d5750a31fe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e1043a23312960c5f260e8cef7928109\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e12a9854291043c1501d7a73f5048c02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\22ed069be4a3d89d25b58b358b309f56\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\cf390cc1f183410f5335f569af120e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\57d32c99e7d2ce9f95732f17e1524b52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9550d39e17d444a72241f2328bbd44da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5fe0ce1a7b640a7f06ea18c258a3725c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2c87e43059bd7d4eb48e01c161985f20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\58b42d3509fca39134c8fcfc13164615\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\92b3a7463670aadb4e1442976a114157\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\39aebd6777ed37674295684b790f3a48\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2e6e703128190e6a96a212b65fb93fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\93595c8c0fc54978a0d41bd63a082b79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\3ed278568e71e97e417149e318450cca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\72c41537f76d919cdf8e608b18193a45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9742ba5a02f1a2072adf89afa014baef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\63b428346ebf63836e4b522af5d0260e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\08d5b1ef6c332454f971391359e1d503\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\816dd266ce99d0d4216189a5b49da5b3\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c7767dfe574d19b2c292b2492b5c3ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b72e499f34288f55407b8f9aa14693c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e3e086c729a20ff71eb154fc388fc1be\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\40242825cbcd48dce7acd8ad307fd41d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b8751c2dbc36638d670e22f955cdccf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e01bb42f7e0bf488c52c5850288f18ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d1bf293951d5a228793d5f80626f6543\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\db6437a0a757cd16b21e87f1314d602c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5c4c2d4c8aecb5be23d773bed52563ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\1dbfe28bf375553569d96687a37218ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.rosjava.android_extras:gingerbread:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\010cef9fcde3517d2d359ae7b748f1d2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.rosjava.android_extras:zxing:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5932bf851103d5c8d8ad210506246794\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:15:5-68
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d9ca40bd50db3d1540aab91ed8858ad6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d9ca40bd50db3d1540aab91ed8858ad6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\33b10d0453668cca63a0fa499f2c12b3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\33b10d0453668cca63a0fa499f2c12b3\AndroidManifest.xml:11:5-15:19
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:19:5-35:19
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:19:5-35:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\816dd266ce99d0d4216189a5b49da5b3\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\816dd266ce99d0d4216189a5b49da5b3\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:12:9-41
+	xmlns:tools
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:9:18-64
+	android:roundIcon
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:11:9-39
+		REJECTED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:20:9-36
+	android:allowBackup
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:15:9-67
+	tools:replace
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:16:9-37
+activity#com.example.drone.input
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:19:13-50
+	tools:ignore
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:18:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.drone.MainActivity
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:26:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:28:13-50
+	tools:ignore
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:27:13-41
+activity#com.example.drone.Menu
+ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:31:9-34:56
+	android:screenOrientation
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:33:13-50
+	tools:ignore
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml:32:13-33
+uses-sdk
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d9ca40bd50db3d1540aab91ed8858ad6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d9ca40bd50db3d1540aab91ed8858ad6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\33b10d0453668cca63a0fa499f2c12b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\33b10d0453668cca63a0fa499f2c12b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rosjava.android_remocons:common_tools:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c4790bd64e698631aedaae1914cf63e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_remocons:common_tools:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c4790bd64e698631aedaae1914cf63e\AndroidManifest.xml:8:5-10:41
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:8:5-10:41
+MERGED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\23600c7dd47e369115e9d1d5750a31fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\23600c7dd47e369115e9d1d5750a31fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e1043a23312960c5f260e8cef7928109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e1043a23312960c5f260e8cef7928109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e12a9854291043c1501d7a73f5048c02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e12a9854291043c1501d7a73f5048c02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\22ed069be4a3d89d25b58b358b309f56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\22ed069be4a3d89d25b58b358b309f56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\cf390cc1f183410f5335f569af120e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\cf390cc1f183410f5335f569af120e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\57d32c99e7d2ce9f95732f17e1524b52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\57d32c99e7d2ce9f95732f17e1524b52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9550d39e17d444a72241f2328bbd44da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9550d39e17d444a72241f2328bbd44da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5fe0ce1a7b640a7f06ea18c258a3725c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5fe0ce1a7b640a7f06ea18c258a3725c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2c87e43059bd7d4eb48e01c161985f20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2c87e43059bd7d4eb48e01c161985f20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\58b42d3509fca39134c8fcfc13164615\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\58b42d3509fca39134c8fcfc13164615\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\92b3a7463670aadb4e1442976a114157\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\92b3a7463670aadb4e1442976a114157\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\39aebd6777ed37674295684b790f3a48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\39aebd6777ed37674295684b790f3a48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2e6e703128190e6a96a212b65fb93fcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\2e6e703128190e6a96a212b65fb93fcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\93595c8c0fc54978a0d41bd63a082b79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\93595c8c0fc54978a0d41bd63a082b79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\3ed278568e71e97e417149e318450cca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\3ed278568e71e97e417149e318450cca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\72c41537f76d919cdf8e608b18193a45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\72c41537f76d919cdf8e608b18193a45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9742ba5a02f1a2072adf89afa014baef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\9742ba5a02f1a2072adf89afa014baef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\63b428346ebf63836e4b522af5d0260e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\63b428346ebf63836e4b522af5d0260e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\17e1e2ce054c6ca2af4e8cc544ca260f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\08d5b1ef6c332454f971391359e1d503\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\08d5b1ef6c332454f971391359e1d503\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\816dd266ce99d0d4216189a5b49da5b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\816dd266ce99d0d4216189a5b49da5b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c7767dfe574d19b2c292b2492b5c3ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\0c7767dfe574d19b2c292b2492b5c3ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b72e499f34288f55407b8f9aa14693c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b72e499f34288f55407b8f9aa14693c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e3e086c729a20ff71eb154fc388fc1be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e3e086c729a20ff71eb154fc388fc1be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\40242825cbcd48dce7acd8ad307fd41d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\40242825cbcd48dce7acd8ad307fd41d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b8751c2dbc36638d670e22f955cdccf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\b8751c2dbc36638d670e22f955cdccf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e01bb42f7e0bf488c52c5850288f18ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\e01bb42f7e0bf488c52c5850288f18ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d1bf293951d5a228793d5f80626f6543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d1bf293951d5a228793d5f80626f6543\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\db6437a0a757cd16b21e87f1314d602c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\db6437a0a757cd16b21e87f1314d602c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5c4c2d4c8aecb5be23d773bed52563ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5c4c2d4c8aecb5be23d773bed52563ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\1dbfe28bf375553569d96687a37218ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\1dbfe28bf375553569d96687a37218ab\AndroidManifest.xml:20:5-44
+MERGED from [com.github.rosjava.android_extras:gingerbread:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\010cef9fcde3517d2d359ae7b748f1d2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_extras:gingerbread:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\010cef9fcde3517d2d359ae7b748f1d2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_extras:zxing:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5932bf851103d5c8d8ad210506246794\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rosjava.android_extras:zxing:0.3.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\5932bf851103d5c8d8ad210506246794\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hcwang\AndroidStudioProjects\drone\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:17:22-74
+activity#org.ros.android.MasterChooser
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:22:9-26:54
+	android:label
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:24:13-45
+	android:launchMode
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:25:13-42
+	android:theme
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:23:13-57
+service#org.ros.android.NodeMainExecutorService
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:28:9-34:19
+	tools:ignore
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:29:13-67
+intent-filter#action:name:org.ros.android.NodeMainExecutorService
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:31:13-33:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [org.ros.android_core:android_core_components:0.4.0] C:\Users\hcwang\.gradle\caches\transforms-2\files-2.1\d98e00dc6a143c388f0237c9b3b18e78\AndroidManifest.xml:32:25-79

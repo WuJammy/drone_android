@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    tools:context=".Menu">
+
+    <TableLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:paddingLeft="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/loiter"
+                android:layout_width="250dp"
+                android:layout_height="180dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/highpressmdpi"
+                android:text="Loiter"
+                android:textColor="#CCCCCC"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/circle"
+                android:layout_width="250dp"
+                android:layout_height="180dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/aroundpressmdpi"
+                android:paddingTop="33dp"
+                android:text="Circle"
+                android:textColor="#CCCCCC"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/stablize"
+                android:layout_width="250dp"
+                android:layout_height="180dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/stablepressmdpi"
+                android:paddingTop="31dp"
+                android:text="Stablize"
+                android:textColor="#CCCCCC"
+                android:textSize="20sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/land"
+                android:layout_width="260dp"
+                android:layout_height="180dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/landpressmdpi"
+                android:paddingTop="30dp"
+                android:text="Land"
+                android:textColor="#CCCCCCCC"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/follow"
+                android:layout_width="250dp"
+                android:layout_height="180dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/followpressmdpi"
+                android:paddingTop="33dp"
+                android:text="Follow"
+                android:textColor="#CCCCCCCC"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="250dp"
+                android:layout_height="180dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/button_rectangle"
+                android:drawableTop="@drawable/backpressmdpi"
+                android:drawingCacheQuality="low"
+                android:duplicateParentState="false"
+                android:gravity="center"
+                android:paddingTop="25dp"
+                android:text="Back"
+                android:textColor="#CCCCCCCC"
+                android:textSize="20sp" />
+
+        </TableRow>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
