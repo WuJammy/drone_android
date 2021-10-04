@@ -23,14 +23,14 @@
 <p align="center">主畫面</p>
 
 功能解釋: <br>
-(1)  <br>
-(2)<br>
-(3)<br>
+(1)解鎖: <br>
+(2)左搖桿: <br>
+(3)右搖桿:<br>
 
 <div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/menu_screen.png/> </div>
 <p align="center">六種模式選單</p>
 
 ### (2) 開發工具及使用的技術
  [1. Android Studio](https://developer.android.com/studio)  <br> 
- [2. Agora](https://www.agora.io)  <br> 
+ [2. ROS](http://wiki.ros.org/android)  <br> 
  
