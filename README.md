@@ -19,3 +19,17 @@
 (4) 鏡頭雲台及鏡頭<br>
 (5) 電壓電流傳感器<br>
 ## (四)手機APP介面
+<div align=center> <img  src=https://github.com/WuJammy/my_project_aubox_android/blob/master/image/interface.png/> </div>
+<p align="center">主頁面</p>
+
+功能解釋: <br>
+(1)  <br>
+(2)<br>
+(3)<br>
+
+
+
+### (2) 開發工具及使用的技術
+ [1. Android Studio](https://developer.android.com/studio)  <br> 
+ [2. Agora](https://www.agora.io)  <br> 
+ 
