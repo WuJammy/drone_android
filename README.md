@@ -6,3 +6,14 @@
 我們在無人機上搭載了NVIDIA Jetson TX2，其主要是用來搭配OpenCV及Yolo進行影像辨識(辨識人)以及操控Pixhawk這塊飛控板，當無人機辨識且鎖定到被拍攝者，便可利用Pixhawk來控制無人機飛行，實現自動跟拍，同時為了讓拍攝影像更穩定，我們也在無人機上搭載了鏡頭雲台，使鏡頭不會受到劇烈晃動。於安全性上，我們透過超音波感測器，讓其可自動避開障礙物，且當電池電量過低時，無人機便會自動緊急下降著陸。而我們在手機的APP上，將無人機及手機連到同一個Wifi後，透過ROS，藉此實現讓使用者只需用手機便可選擇動操作無人機或自動跟拍，並可在APP上顯示電池電量、Wifi訊號強度和當前的模式，同時將無人機的影像即時傳到手機畫面上，且可讓使用者選擇拍照或錄影模式，記錄下屬於當下美好的影像。
 ![image](https://github.com/WuJammy/drone_android/blob/master/image/struct.png)
 <p align="center">圖1: 簡易架構圖</p>
+
+![image](https://github.com/WuJammy/my_project_aubox_android/blob/master/flow.png)
+<p align="center">圖2: 簡易流程圖</p>
+
+## (三)無人機的硬體設備
+(1) 郵箱主體 <br>
+(2) 平板 <br>
+(3) ESP8266 <br>
+(4) 繼電器 <br>
+(5) 電子鎖 <br>
+## (四)平板端介面
