@@ -22,6 +22,7 @@
 (4) 鏡頭雲台及鏡頭<br>
 (5) 電壓電流傳感器<br>
 ## (四)手機APP介面
+### (1) 操作介面
 <div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/main_screen.png/> </div>
 <p align="center">主畫面</p>
 
