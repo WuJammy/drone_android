@@ -7,7 +7,7 @@
 ![image](https://github.com/WuJammy/drone_android/blob/master/image/struct.png)
 <p align="center">圖1: 簡易架構圖</p>
 
-![image](https://github.com/WuJammy/my_project_aubox_android/blob/master/flow.png)
+![image](https://github.com/WuJammy/drone_android/blob/master/image/flow.png)
 <p align="center">圖2: 簡易流程圖</p>
 
 ## (三)無人機的硬體設備
@@ -16,4 +16,4 @@
 (3) ESP8266 <br>
 (4) 繼電器 <br>
 (5) 電子鎖 <br>
-## (四)平板端介面
+## (四)手機APP介面
