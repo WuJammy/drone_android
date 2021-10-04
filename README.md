@@ -19,15 +19,16 @@
 (4) 鏡頭雲台及鏡頭<br>
 (5) 電壓電流傳感器<br>
 ## (四)手機APP介面
-<div align=center> <img  src=https://github.com/WuJammy/my_project_aubox_android/blob/master/image/interface.png/> </div>
-<p align="center">主頁面</p>
+<div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/main_screen.png/> </div>
+<p align="center">主畫面</p>
 
 功能解釋: <br>
 (1)  <br>
 (2)<br>
 (3)<br>
 
-
+<div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/menu_screen.png/> </div>
+<p align="center">六種模式選單</p>
 
 ### (2) 開發工具及使用的技術
  [1. Android Studio](https://developer.android.com/studio)  <br> 
