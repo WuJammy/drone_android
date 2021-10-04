@@ -7,7 +7,9 @@
 ![image](https://github.com/WuJammy/drone_android/blob/master/image/struct.png)
 <p align="center">圖1: 簡易架構圖</p>
 
-![image](https://github.com/WuJammy/drone_android/blob/master/image/flow.png)
+<div align=center>
+<img  src=https://github.com/WuJammy/drone_android/blob/master/image/flow.png/>
+</div>
 <p align="center">圖2: 簡易流程圖</p>
 
 ## (三)無人機的硬體設備
