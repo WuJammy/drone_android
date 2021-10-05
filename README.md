@@ -50,8 +50,8 @@
  
  
 ### (3) 於Android APP中使用ROS(JAVA)
-開發APP時，可不必於ROS的環境中
-這裡僅介紹簡易基礎用法，詳細請參考[ROS-Android-Tutorials](http://wiki.ros.org/android/Tutorials)
+*開發APP時，可不必於ROS的環境中<br> 
+*這裡僅介紹簡易基礎用法，詳細請參考[ROS-Android-Tutorials](http://wiki.ros.org/android/Tutorials)
 
 #### 1. 將ROS導入Android
 首先將build.gradle內特定程式碼進行替換，如下:
