@@ -53,7 +53,7 @@
 詳細請參考[ROS](http://wiki.ros.org/android/Tutorials/kinetic/Installation%20-%20Android%20Studio%20Development%20Environment)
 
 #### 1. 將ROS導入Android
-首先將build.gradle內程式碼進行替換
+首先將build.gradle內特定程式碼進行替換，如下:
 ```gradle
 buildscript {
     repositories {
@@ -66,8 +66,33 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-
 ```
+將其替換成:
+```gradle
+buildscript {
+  apply from: "https://github.com/rosjava/android_core/raw/kinetic/buildscript.gradle"
+}
+```
+並加入
+```gradle
+subprojects {
+    apply plugin: 'ros-android'
+
+    afterEvaluate { project ->
+        android {
+            // Exclude a few files that are duplicated across our dependencies and
+            // prevent packaging Android applications.
+            packagingOptions {
+                exclude "META-INF/LICENSE.txt"
+                exclude "META-INF/NOTICE.txt"
+            }
+        }
+    }
+}
+```
+
+導入後有任何問題，請參考[Installation - Android Studio Development](http://wiki.ros.org/android/Tutorials/kinetic/Installation%20-%20Android%20Studio%20Development%20Environment)，進行問題排解
+
 
 
 
