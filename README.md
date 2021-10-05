@@ -53,7 +53,7 @@
 *開發APP時，可不必於ROS的環境中<br> 
 *這裡僅介紹簡易基礎用法，詳細請參考[ROS-Android-Tutorials](http://wiki.ros.org/android/Tutorials)
 
-#### 1. 將ROS導入Android
+#### 1. 將ROS導入Android APP
 首先將build.gradle內特定程式碼進行替換，如下:
 ```gradle
 buildscript {
@@ -94,6 +94,24 @@ subprojects {
 
 導入後有任何問題，請參考[Installation - Android Studio Development](http://wiki.ros.org/android/Tutorials/kinetic/Installation%20-%20Android%20Studio%20Development%20Environment)，進行問題排解
 
+#### 2. 於AndroidManifest.xml添加權限
+```xml
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+```
 
 
+
+
+
+
+
+
+
+
+#### 2. MainActivity繼承RosActivity 
+```java
+public class MainActivity extends RosActivity {...}
+```
 
