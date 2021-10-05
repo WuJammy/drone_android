@@ -160,7 +160,7 @@ public MainActivity() {
               }});
 ```
 
-#### 5.Listener 
+#### 7. Listener 
 - 此Listener程式碼為進階的寫法，基本的使用請參考[Publishers and subscribers](http://rosjava.github.io/rosjava_core/latest/getting_started.html#publishers-and-subscribers)
 
 ```java
