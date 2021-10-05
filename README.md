@@ -27,12 +27,20 @@
 <p align="center">主畫面</p>
 
 功能解釋: <br>
-(1)解鎖: <br>
-(2)左搖桿: <br>
-(3)右搖桿:<br>
+(1)解鎖: 安全設定必需點擊後才能操作無人機<br>
+(2)左搖桿: 控制無人機方向<br>
+(3)右搖桿: 控制無人機的加速及減速<br>
 
 <div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/menu_screen.png/> </div>
 <p align="center">六種模式選單</p>
+
+功能解釋: <br>
+(1)解鎖: 安全設定必需點擊後才能操作無人機<br>
+(2)左搖桿: 控制無人機方向<br>
+(3)右搖桿: 控制無人機的加速及減速<br>
+(4)右搖桿: 控制無人機的加速及減速<br>
+(5)右搖桿: 控制無人機的加速及減速<br>
+(6)右搖桿: 控制無人機的加速及減速<br>
 
 ### (2) 開發工具及使用的技術
  [1. Android Studio](https://developer.android.com/studio)  <br> 
