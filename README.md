@@ -30,15 +30,17 @@
 (1)解鎖: 安全設定必需點擊後才能操作無人機<br>
 (2)左搖桿: 控制無人機方向<br>
 (3)右搖桿: 控制無人機的加速及減速<br>
+(4)選單圖示: 進入六種模式選單<br>
+(5)快門圖示: 長按錄影和短按拍照<br>
 
 <div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/menu_screen.png/> </div>
 <p align="center">六種模式選單</p>
 
 功能解釋: <br>
 (1)Loiter: 將無人機維持在固定高度<br>
-(2)左搖桿: 控制無人機方向<br>
-(3)右搖桿: 控制無人機的加速及減速<br>
-(4)右搖桿: 控制無人機的加速及減速<br>
+(2)Circle: 環繞著被拍攝者拍攝<br>
+(3)Stablize: 維持當前狀態<br>
+(4)Land: 自動著陸<br>
 (5)Follow: 自動跟拍<br>
 (6)Back: 返回出發位置<br>
 
