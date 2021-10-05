@@ -101,17 +101,68 @@ subprojects {
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 ```
 
-
-
-
-
-
-
-
-
-
-#### 2. MainActivity繼承RosActivity 
+#### 3. MainActivity繼承RosActivity 
 ```java
 public class MainActivity extends RosActivity {...}
 ```
+#### 4. 連接的節點名稱及位置
+```java
+public MainActivity() {
+        super("ImageTransportTutorial", "ImageTransportTutorial");
+    }
+```
+#### 5. 初始化及創建(連接)節點
+- 此節點程式碼為進階的寫法，基本的使用請參考[Creating nodes](http://rosjava.github.io/rosjava_core/latest/getting_started.html#creating-nodes)
+
+```java
+@Override
+    protected void init(NodeMainExecutor nodeMainExecutor) {
+        NodeConfiguration nodeConfiguration1 = NodeConfiguration.newPublic(InetAddressFactory.newNonLoopback().getHostAddress(), getMasterUri());
+        nodeMainExecutor.execute(image, nodeConfiguration1.setNodeName("android/video_view"));
+        NodeConfiguration nodeConfiguration = NodeConfiguration.newPublic(getRosHostname());
+        nodeConfiguration.setMasterUri(getMasterUri());
+       nodeMainExecutor.execute(new NodeMain() {
+            @Override
+            public GraphName getDefaultNodeName() {
+                return GraphName.of("ros_test");
+            }
+            @Override
+            public void onStart(ConnectedNode connectedNode ) {
+
+               connectedNode.executeCancellableLoop(new CancellableLoop() {...});
+            }
+          
+            @Override
+            public void onShutdown(Node node) {
+
+            }
+            @Override
+            public void onShutdownComplete(Node node) {
+
+            }
+            @Override
+            public void onError(Node node, Throwable throwable) {
+
+            }
+        }, nodeConfiguration);
+    }
+```
+#### 6. Pubisher
+```java
+     final Publisher<Int64MultiArray> pub =  connectedNode.newPublisher("test", std_msgs.Int64MultiArray._TYPE);
+     connectedNode.executeCancellableLoop(new CancellableLoop() {
+         @Override
+         protected void loop() throws InterruptedException {
+              std_msgs.Int64MultiArray msg = pub.newMessage();
+              ....
+              }});
+```
+
+#### 5.Listener 
+
+
+
+
+
+
 
