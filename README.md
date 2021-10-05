@@ -121,7 +121,7 @@ public MainActivity() {
         nodeMainExecutor.execute(image, nodeConfiguration1.setNodeName("android/video_view"));
         NodeConfiguration nodeConfiguration = NodeConfiguration.newPublic(getRosHostname());
         nodeConfiguration.setMasterUri(getMasterUri());
-       nodeMainExecutor.execute(new NodeMain() {
+        nodeMainExecutor.execute(new NodeMain() {
             @Override
             public GraphName getDefaultNodeName() {
                 return GraphName.of("ros_test");
@@ -148,6 +148,8 @@ public MainActivity() {
     }
 ```
 #### 6. Pubisher
+- 此Pubisher程式碼為進階的寫法，基本的使用請參考[Publishers and subscribers](http://rosjava.github.io/rosjava_core/latest/getting_started.html#publishers-and-subscribers)
+
 ```java
      final Publisher<Int64MultiArray> pub =  connectedNode.newPublisher("test", std_msgs.Int64MultiArray._TYPE);
      connectedNode.executeCancellableLoop(new CancellableLoop() {
@@ -159,7 +161,17 @@ public MainActivity() {
 ```
 
 #### 5.Listener 
+- 此Listener程式碼為進階的寫法，基本的使用請參考[Publishers and subscribers](http://rosjava.github.io/rosjava_core/latest/getting_started.html#publishers-and-subscribers)
 
+```java
+     final Listener<Int64MultiArray> pub =  connectedNode.newListener("test", std_msgs.Int64MultiArray._TYPE);
+     connectedNode.executeCancellableLoop(new CancellableLoop() {
+         @Override
+         protected void loop() throws InterruptedException {
+              std_msgs.Int64MultiArray msg = pub.newMessage();
+              ....
+              }});
+```
 
 
 
