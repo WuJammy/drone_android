@@ -53,8 +53,21 @@
 詳細請參考[ROS](http://wiki.ros.org/android/Tutorials/kinetic/Installation%20-%20Android%20Studio%20Development%20Environment)
 
 #### 1. 將ROS導入Android
+首先將build.gradle內程式碼進行替換
+```gradle
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
 
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
 
+```
 
 
 
