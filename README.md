@@ -27,30 +27,31 @@
 <p align="center">主畫面</p>
 
 功能解釋: <br>
-(1)解鎖: 安全設定必需點擊後才能操作無人機<br>
-(2)左搖桿: 控制無人機方向<br>
-(3)右搖桿: 控制無人機的加速及減速<br>
-(4)選單圖示: 進入六種模式選單<br>
-(5)快門圖示: 長按錄影和短按拍照<br>
+(1) 解鎖: 安全設定必需點擊後才能操作無人機<br>
+(2) 左搖桿: 控制無人機方向<br>
+(3) 右搖桿: 控制無人機的加速及減速<br>
+(4) 選單圖示: 進入六種模式選單<br>
+(5) 快門圖示: 長按錄影和短按拍照<br>
 
 <div align=center> <img  src=https://github.com/WuJammy/drone_android/blob/master/image/menu_screen.png/> </div>
 <p align="center">六種模式選單</p>
 
 功能解釋: <br>
-(1)Loiter: 將無人機維持在固定高度<br>
-(2)Circle: 環繞著被拍攝者拍攝<br>
-(3)Stablize: 維持當前狀態<br>
-(4)Land: 自動著陸<br>
-(5)Follow: 自動跟拍<br>
-(6)Back: 返回出發位置<br>
+(1) Loiter: 將無人機維持在固定高度<br>
+(2) Circle: 環繞著被拍攝者拍攝<br>
+(3) Stablize: 維持當前狀態<br>
+(4) Land: 自動著陸<br>
+(5) Follow: 自動跟拍<br>
+(6) Back: 返回出發位置<br>
 
 ### (2) 開發工具及使用的技術
  [1. Android Studio](https://developer.android.com/studio)  <br> 
- [2. ROS](http://wiki.ros.org/android)  <br> 
+ [2. ROS-Android](http://wiki.ros.org/android)  <br> 
  
  
 ### (3) 於Android APP中使用ROS(JAVA)
-詳細請參考[ROS-Android-Tutorials](http://wiki.ros.org/android/Tutorials)
+開發APP時，可不必於ROS的環境中
+這裡僅介紹簡易基礎用法，詳細請參考[ROS-Android-Tutorials](http://wiki.ros.org/android/Tutorials)
 
 #### 1. 將ROS導入Android
 首先將build.gradle內特定程式碼進行替換，如下:
